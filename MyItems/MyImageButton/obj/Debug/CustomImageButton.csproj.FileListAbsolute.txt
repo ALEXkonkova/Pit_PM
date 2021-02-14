@@ -1,0 +1,16 @@
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\CustomImageButton.csproj.GenerateResource.cache
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\CustomImageButton.csproj.CoreCompileInputs.cache
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\MyImageButton.pdb
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\CustomImageButton.csprojAssemblyReference.cache
+E:\%Учёба\Найденные лабы\GaRaGe-master\MyImageButton\bin\Debug\MyImageButton.dll
+E:\%Учёба\Найденные лабы\GaRaGe-master\MyImageButton\bin\Debug\MyImageButton.pdb
+E:\%Учёба\Найденные лабы\GaRaGe-master\MyImageButton\obj\Debug\CustomImageButton.csprojAssemblyReference.cache
+E:\%Учёба\Найденные лабы\GaRaGe-master\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+E:\%Учёба\Найденные лабы\GaRaGe-master\MyImageButton\obj\Debug\CustomImageButton.csproj.GenerateResource.cache
+E:\%Учёба\Найденные лабы\GaRaGe-master\MyImageButton\obj\Debug\CustomImageButton.csproj.CoreCompileInputs.cache
+E:\%Учёба\Найденные лабы\GaRaGe-master\MyImageButton\obj\Debug\MyImageButton.dll
+E:\%Учёба\Найденные лабы\GaRaGe-master\MyImageButton\obj\Debug\MyImageButton.pdb

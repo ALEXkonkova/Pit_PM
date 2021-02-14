@@ -1,0 +1,8 @@
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\bin\Debug\MyImageButton.dll
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\bin\Debug\MyImageButton.pdb
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.cache
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\MyImageButton.dll
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\MyImageButton.pdb
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+C:\Users\taya\source\repos\Garage3.1\MyImageButton\obj\Debug\MyImageButton.csprojAssemblyReference.cache
